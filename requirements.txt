@@ -4,3 +4,4 @@ BeautifulSoup4
 pandas
 ipywidgets
 matplotlib
+tensorflow
