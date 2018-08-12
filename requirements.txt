@@ -5,3 +5,4 @@ pandas
 ipywidgets
 matplotlib
 tensorflow
+scipy
