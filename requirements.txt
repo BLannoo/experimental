@@ -6,3 +6,7 @@ ipywidgets
 matplotlib
 tensorflow
 scipy
+mpu
+shapely
+geopandas
+geojsonio
