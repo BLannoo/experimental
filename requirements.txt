@@ -10,3 +10,7 @@ mpu
 shapely
 geopandas
 geojsonio
+seaborn
+descartes
+psycopg2
+geojson
