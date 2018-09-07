@@ -58,3 +58,11 @@ jupyter notebook
 * If you didn't get redirected automatically, browse to http://localhost:8889/tree to see your notebooks
 * Open the EightQueensProblem.ipynb notebook
 * Run all cells: Cell -> Run All
+
+## Extra non python dependencies
+
+To run geo spacial analysis (intersections of gps data) and when using geopandas, one of the underlying libraries (rtree) has an os dependency: 'OSError: Could not find libspatialindex_c library file'. To fix this issue one should install spatialindex:
+
+```
+brew install spatialindex
+```

@@ -14,3 +14,4 @@ seaborn
 descartes
 psycopg2
 geojson
+rtree
