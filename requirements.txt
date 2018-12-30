@@ -15,3 +15,4 @@ descartes
 psycopg2
 geojson
 rtree
+ipyleaflet
